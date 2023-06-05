@@ -19,7 +19,7 @@
 //switch
 //case-->response
 
-const weekday = prompt('what day is today?  ');
+//const weekday = prompt('what day is today?  ');
 
 
 // if (weekday == 'Monday')
@@ -27,4 +27,48 @@ const weekday = prompt('what day is today?  ');
 // else if (weekday == 'Tuesday') {console.log('Today is Tuesday');}
 // else if (weekday = = 'Wednesday') {console.log('Today is Wednesday');}
 // else if (weekday == 'Thursday'); {console.log('Today is Thursday');}
+
+//switch case 
+// const weekday= prompt ( 'Today is what day?')
+// switch (weekday)
+// { case 'Monday':
+// console.log('Today is Monday')
+// break;
+// case 'Tuesday':
+// console.log('Today is Tuesday')
+// break;
+// case 'Wednesday':
+// console.log('Today is Wednesday')
+// break;
+// case 'Thursday':
+// console.log('Today is Thursday')
+// break;
+// case 'Friday':
+//     console.log('Today is Friday')
+// break;
+// default: 
+// console.log('Enter a correct day')
+// break;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
