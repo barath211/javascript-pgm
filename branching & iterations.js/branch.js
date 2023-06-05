@@ -1,4 +1,4 @@
-// branching -- its a decision making-- if, else//
+// branching -- its a decision making-- ifelse , if else else if, switch case,ternary operator//
 
 // const randomNumber = 88
 // let userGuess = 55;
@@ -51,6 +51,13 @@
 // break;
 // }
 
+//ternary operator(?) // binary response
+const SundayisHoliday = false;
+
+if(SundayisHoliday) {console.log('Take a Leave')}
+else { console.log(' DonT Take a Leave');
+
+}
 
 
 
@@ -65,10 +72,4 @@
 
 
 
-
-
-
-
-
-
-
+ 
