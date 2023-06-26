@@ -65,4 +65,46 @@
 // }
 //  dailyProfit(500,300);
 //  dailyProfit(100,50)
+
+ 
+  // return keyword //
+// function salary(){
+//        console.log('hello');
+//        return;
+//        console.log('welcome')
+// }
+// salary();
+
+// another way
+// function sum(dayOne,dayTwo){
+
+// return dayOne * dayTwo
+
+// }
+// sum(5,5);
+// console.log(sum(5,5));
+
+// const total = sum(5,10);
+// console.log(total);
+
+
+// function getSum(personOne,personTwo){
+
+//      return personOne + personTwo;
+// }
+// getSum(9,8)
+// console.log(getSum(5,5));
+ 
+// const total = getSum(5,5)
+// console.log(total);
+
+
+// explicit arrow function //
+// const sum = (personOne,personTwo) => {
+// return personOne + personTwo
+// }
+// console.log(sum(8,10));
+
+
+// implicit arrow function // without {}
  
