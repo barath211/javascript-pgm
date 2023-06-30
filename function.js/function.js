@@ -108,3 +108,110 @@
 
 // implicit arrow function // without {}
  
+
+
+         // scope // 
+ // window scope , global scope, local or block scope....//
+ 
+ // global scope //
+
+//  let a= 20;
+//  let b= 'hello';
+//  let c= 50;
+//  let d = true
+
+//  if(true) { 
+
+//  console.log('a:', a);
+//  console.log('b:', b);
+//  console.log('c:', c);
+//  console.log('d:', d);
+
+//  if (true){
+//        let a = 30;//(redeclare)
+//        console.log('a:', a);
+//        b = 'welcome';//(updated)
+//        console.log('b:', b); 
+//        let c= 100;//(redeclare)
+//        console.log('c:', c);
+
+//   d = false//(updated)
+// console.log('d:', d); 
+//  }
+
+//  console.log('d:', d); 
+//  console.log('a:', a);
+//  console.log('b:', b);
+//  console.log('c:', c);
+// }
+
+// console.log('d:', d); 
+// console.log('a:', a);
+// console.log('b:', b);
+// console.log('c:', c);
+
+
+
+// let a = 'javascript';
+// console.log('a:', a);
+
+// if(true){
+// a = 'python'
+// console.log('a:', a);
+// }
+
+// console.log('a:', a);
+
+
+// functional scope //
+
+
+// var a= 'java'; 
+// console.log(`a: ${a}`)
+
+// function language(){
+//  a = 'script';
+//  var b= 'python'
+
+//  console.log(`b: ${b}`);
+// }
+// console.log(`a: ${a}`)
+// language();
+//  console.log(`a: ${a}`)
+
+                       // objects //
+// const user = {
+// firstName :'barath',
+// profession : 'developer',
+// city : 'coimbatore',
+// isWORKING : true,
+// lastName : 'crazy',
+// DOB : 2000,
+
+// getFullName : function () {
+
+//  return `${user.firstName}   ${user.lastName}` 
+// }
+// }
+
+
+// getAgeUser = function() {
+
+//       return 2023 - user.DOB
+// };
+
+// console.log(user.getFullName());
+// console.log( getAgeUser());
+
+// console.log(user.firstName)
+// console.log(user.profession)
+// console.log(user.isWORKING)
+
+
+// const UserProperty = prompt('select one user ');
+// console.log(user[UserProperty]);
+
+
+
+
+
